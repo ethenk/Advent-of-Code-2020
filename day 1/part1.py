@@ -1,10 +1,10 @@
 import re
 
-file = open("/Users/kisne/Documents/Development/Advent of Code 2020/1/data.txt", 'r')
+file = open("/Users/kisne/Documents/Development/Advent of Code 2020/day 1/data.txt", 'r')
 
 for value in file:
     # print("Line: " + value)
-    file2 = open("/Users/kisne/Documents/Development/Advent of Code 2020/1/data.txt", 'r')
+    file2 = open("/Users/kisne/Documents/Development/Advent of Code 2020/day 1/data.txt", 'r')
     
     for value2 in file2:
         # print("Line 2: " + value2)
